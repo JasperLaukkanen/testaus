@@ -4,3 +4,4 @@ function onkotaysiIkainen(ika){
     }
     return ika <= 18;
 }
+module.exports = onkotaysiIkainen;
